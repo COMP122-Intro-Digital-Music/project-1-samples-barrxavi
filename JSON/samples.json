@@ -1,1 +1,8 @@
-[ ]
+[
+  {
+    "name": "adrienneaudience",
+    "file": "samples/adrienneaudience.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]

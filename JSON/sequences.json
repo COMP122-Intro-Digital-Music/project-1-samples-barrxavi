@@ -1,92 +1,68 @@
 [
   {
-    "name": "Twinkle A",
-    "loop": "1m",
+    "name": "Sequence 0",
+    "loop": "2:0:0",
     "octave": 0,
     "sequence": [
       {
-        "time": "0:0:0.0",
+        "time": "0:1:1.5",
+        "pitch": "F4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.4",
         "pitch": "C4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:0:2.0",
-        "pitch": "C4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:1:0.0",
-        "pitch": "G4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:1:2.0",
-        "pitch": "G4",
-        "dur": "8n",
+        "dur": "1n",
         "vel": "1"
       },
       {
         "time": "0:2:0.0",
-        "pitch": "A4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:2:2.0",
-        "pitch": "A4",
-        "dur": "8n",
+        "pitch": "Bb4",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:3:0.0",
-        "pitch": "G4",
-        "dur": "4n",
+        "pitch": "A4",
+        "dur": "2n",
         "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "A4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:1.2",
+        "pitch": "D5",
+        "dur": "2n",
+        "vel": "0.5"
       }
     ]
   },
   {
-    "name": "Twinkle B",
+    "name": "Sequence 1",
     "loop": "1m",
     "octave": 0,
     "sequence": [
       {
         "time": "0:0:0.0",
-        "pitch": "F4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:0:2.0",
-        "pitch": "F4",
-        "dur": "8n",
+        "pitch": "C4",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:1:0.0",
-        "pitch": "E4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:1:2.0",
-        "pitch": "E4",
-        "dur": "8n",
+        "pitch": "D4",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:2:0.0",
-        "pitch": "D4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:2:2.0",
-        "pitch": "D4",
-        "dur": "8n",
+        "pitch": "A4",
+        "dur": "4n",
         "vel": "1"
       },
       {

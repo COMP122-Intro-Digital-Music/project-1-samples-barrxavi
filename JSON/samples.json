@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "adrienneaudience",
+    "file": "samples/adrienneaudience.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "evermorechimes",
+    "file": "samples/evermorechimes.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "lakeminiwaves",
+    "file": "samples/lakeminiwaves.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  }
+]

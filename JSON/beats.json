@@ -1,22 +1,17 @@
 [
-    {
-      "name": "snare 5",
-      "pitch": "B3",
-      "pattern": "10010"
-    },
-    {
-      "name": "snare 3",
-      "pitch": "B3",
-      "pattern": "100"
-    },
-    {
-      "name": "kick",
-      "pitch": "A3",
-      "pattern": "1000"
-    },
-    {
-      "name": "claps",
-      "pitch": "C4",
-      "pattern": "00001000"
-    }
-  ]
+  {
+    "name": "Shot 1",
+    "pitch": "C#4",
+    "pattern": "1000"
+  },
+  {
+    "name": "Shot 2",
+    "pitch": "D#4",
+    "pattern": "101"
+  },
+  {
+    "name": "Hi-Hat Closed",
+    "pitch": "F4",
+    "pattern": "1202"
+  }
+]
